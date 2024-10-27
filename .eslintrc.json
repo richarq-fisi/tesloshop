@@ -2,6 +2,6 @@
   "extends": ["next/core-web-vitals", "next/typescript"],
   "rules": {
     "import/no-anonymous-default-export": "off",
-    "react/display-name": "off",
+    "react/display-name": "off"
   }
 }
